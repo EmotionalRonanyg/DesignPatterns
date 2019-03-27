@@ -1,5 +1,3 @@
-import com.sun.org.apache.regexp.internal.recompile;
-
 public class BookShelfIterator implements Iterator{
     private BookShelf bookShelf;
     private int  index;
